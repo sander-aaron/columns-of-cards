@@ -67,7 +67,7 @@ h3 {
   font-size: .7rem;
 }
 
-a {
+.btn, .btn-small {
   display: inline-block;
   background-color: #333;
   border-radius: 6px;
