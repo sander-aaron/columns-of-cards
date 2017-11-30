@@ -8,6 +8,10 @@ html {
   box-sizing: inherit;
 }
 
+div {
+  display: inline-block;
+}
+
 img {
   width: 100px;
 }
