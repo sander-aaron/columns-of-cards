@@ -12,6 +12,7 @@ html {
 h1 {
   text-align: center;
   font-size: 2rem;
+  font-family: Open Sans, sans-serif;
 }
 
 div {
@@ -19,6 +20,7 @@ div {
   width: 25%;
   float: left;
   padding-top: .5em;
+  font-family: Open Sans, sans-serif;
 }
 
 img {
@@ -31,6 +33,7 @@ img {
 h2 {
   font-size: 1rem;
   margin: 0;
+  font-weight: bold;
 }
 
 p {
@@ -38,28 +41,39 @@ p {
   margin: 0;
 }
 
-.Barrett {
+.barrett {
   background-color: #e2e2e2;
   border-left: 1px solid #333;
 }
 
-.Hedegaar {
+.hedegaar {
   background-color: #ccc;
   border-left: 1px solid #333;
 }
 
-.Čejková {
+.cejková {
   background-color: #aaa;
   border-left: 1px solid #333;
 }
 
-.Olivárez {
+.olivárez {
   background-color: #999;
   border-left: 1px solid #333;
   border-right: 1px solid #333;
 }
 
-.italic {
+h3 {
   font-style: italic;
   font-size: .7rem;
+}
+
+a {
+  display: inline-block;
+  background-color: #333;
+  border-radius: 6px;
+  color: #fff;
+  font-size: .7rem;
+  padding: .75rem;
+  text-decoration: none;
+  margin: 1rem
 }
