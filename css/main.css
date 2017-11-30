@@ -32,16 +32,21 @@ p {
 
 .Barrett {
   background-color: #e2e2e2;
+  border-left: 1px solid #333;
 }
 
 .Hedegaar {
   background-color: #ccc;
+  border-left: 1px solid #333;
 }
 
 .Čejková {
   background-color: #aaa;
+  border-left: 1px solid #333;
 }
 
 .Olivárez {
   background-color: #999;
+  border-left: 1px solid #333;
+  border-right: 1px solid #333;
 }
