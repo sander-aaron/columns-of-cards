@@ -42,14 +42,14 @@ section img {
 }
 
 h2 {
-  font-size: .875rem;
+  font-size: 1rem;
   margin: 0;
   font-weight: bold;
   padding-left: .4em;
 }
 
 p {
-  font-size: .875rem;
+  font-size: 1rem;
   margin: 0;
   padding-left: .4em;
   padding-right: .2em;
@@ -78,7 +78,7 @@ p {
 
 h3 {
   font-style: italic;
-  font-size: .875rem;
+  font-size: 1rem;
   margin: 0;
   padding-left: .4em;
 }
@@ -88,7 +88,7 @@ h3 {
   background-color: #333;
   border-radius: 6px;
   color: #fff;
-  font-size: .875rem;
+  font-size: 1rem;
   padding: .6rem;
   text-decoration: none;
   margin: 1rem;
