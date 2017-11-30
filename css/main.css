@@ -13,6 +13,7 @@ div {
   display: inline-block;
   width: 25%;
   float: left;
+  padding-top: .5em;
 }
 
 img {
@@ -24,10 +25,12 @@ img {
 
 h2 {
   font-size: 1rem;
+  margin: 0;
 }
 
 p {
   font-size: .875rem;
+  margin: 0;
 }
 
 .Barrett {
@@ -49,4 +52,9 @@ p {
   background-color: #999;
   border-left: 1px solid #333;
   border-right: 1px solid #333;
+}
+
+.italic {
+  font-style: italic;
+  font-size: .7rem;
 }
