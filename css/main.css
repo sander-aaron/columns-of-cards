@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #f2f2f2;
+}
+
 h1 {
   text-align: center;
   font-size: 2rem;
@@ -19,7 +23,7 @@ div {
   display: inline-block;
   width: 25%;
   float: left;
-  padding-top: .5em;
+  padding-top: .6em;
   font-family: "Open Sans", sans-serif;
 }
 
